@@ -3,7 +3,7 @@ A Simple TCP Server and Client program. The network connection between the host 
 # Library Used:
 * Socket():
   
-  Provides a low-level interface for network connection. These are the [functionalities](https://docs.python.org/3/library/socket.html) of the socket module for creating a socket. This project implements them for establishing client and server connections. 
+  Provides a low-level interface for network connections. These are the [functionalities](https://docs.python.org/3/library/socket.html) of the socket module for creating a socket. This project implements them for establishing client and server connections. 
 # Features:
 * Socket creation by importing the socket library.
 * Address families and protocols.
